@@ -8,3 +8,5 @@ java, gradle, springboot, jpa, mysql
 - 코드 및 버전관리 
 git
 - 협업 툴 slack
+
+https://drive.google.com/file/d/1Dpse7XkF-4F3Lfn5vGm-82rtzMDvm0w-/view?usp=sharing
