@@ -9,3 +9,4 @@ java, gradle, springboot, jpa, mysql
 git
 - 협업 툴 slack
 
+https://user-images.githubusercontent.com/118254103/230603403-dd167533-3301-434f-ad7e-2f0f056d34f4.mp4
